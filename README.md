@@ -10,5 +10,5 @@ type "cargo run", and you can get the following result:
 <h2>Weekly Mini Rust 3:</h2>
 I create a guess game project.
 type "cargo run", and you can guess the random number:
-<img width="342" alt="miniRust3" src="/img/minirust3.png">
+<img width="342" alt="miniRust3" src="/img/miniRust3.jpg">
 <h2>Individual project #1</h2>
