@@ -15,3 +15,7 @@ type "cargo run", and you can guess the random number:
 I create a Rust program that implements a simple HTTP server.
 type "cargo run", and you can open simple HTTP server:
 <img width="342" alt="minirust4" src="/img/minirust4.jpg">
+<h2>Weekly Mini Rust 5:</h2>
+I create a Rust program that implements a simple todo list.
+type "cargo run", and you can add or list the todo:
+<img width="342" alt="minirust5" src="/img/minirust5.jpg">
