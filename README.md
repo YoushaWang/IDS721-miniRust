@@ -24,10 +24,14 @@ I create a Rust program that randomly generate passwords.
 type "cargo run", and you can get random password:
 <img width="342" alt="minirust6" src="/img/minirust6.jpg">
 <h2>Weekly Mini Rust 7:</h2>
-I create a program that using rust CLI to create a fortune cookies generator.    
-type "cargo run", and you can get fortune cookies message.
-<img width="342" alt="minirust7" src="/img/minirust7.jpg">
-<h2>Weekly Mini Rust 8:</h2>
 I create a program that using rust CLI to create a timer and digital clock.    
-type "cargo run", and you can get options to timer or digital clock.
+type "cargo run", and you can get options to timer or digital clock:
 <img width="342" alt="minirust8" src="/img/minirust8.jpg">
+<h2>Weekly Mini Rust 8:</h2>
+I create a program that using rust CLI to create a fortune cookies generator.    
+type "cargo run", and you can get fortune cookies message:
+<img width="342" alt="minirust7" src="/img/minirust7.jpg">
+<h2>Weekly Mini Rust 9:</h2>
+I create a program that using rust CLI to translate language from chinese to english.     
+type "cargo run", and you can get the translated text.
+<img width="342" alt="minirust9" src="/img/minirust9.jpg">
