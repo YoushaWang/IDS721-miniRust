@@ -44,5 +44,6 @@ I create a program that use rust to transfer data from decimal to bianry.
 type "cargo run", and you can get the transfered binary number.
 <img width="342" alt="minirust11" src="/img/minirust11.jpg">
 <h2>Weekly Mini Rust 12:</h2>
-
+I create a program that use rust to count the words number inside a txt file.
+type "rustc main.rs" to create the object, and then type "./main file.txt" to run the code.
 <img width="342" alt="minirust12" src="/img/minirust12.jpg">
