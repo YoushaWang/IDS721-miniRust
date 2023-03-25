@@ -35,3 +35,12 @@ type "cargo run", and you can get fortune cookies message:
 I create a program that using rust CLI to translate language from chinese to english.     
 type "cargo run", and you can get the translated text.
 <img width="342" alt="minirust9" src="/img/minirust9.jpg">
+<h2>Weekly Mini Rust 10:</h2>
+I create a program that use rust to fetch real-time Apple stock price.
+type "cargo run", and you can get the real-time apple stock price.
+<img width="342" alt="minirust10" src="/img/minirust10.jpg">
+<h2>Weekly Mini Rust 11:</h2>
+
+<img width="342" alt="minirust11" src="/img/minirust11.jpg">
+<h2>Weekly Mini Rust 12:</h2>
+<img width="342" alt="minirust12" src="/img/minirust12.jpg">
