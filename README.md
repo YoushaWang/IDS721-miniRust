@@ -46,4 +46,4 @@ type "cargo run", and you can get the transfered binary number.
 <h2>Weekly Mini Rust 12:</h2>
 I create a program that use rust to count the words number inside a txt file.
 type "rustc main.rs" to create the object, and then type "./main file.txt" to run the code.
-<img width="342" alt="minirust12" src="/img/minirust12.jpg">
+<img width="500" alt="minirust12" src="/img/minirust12.jpg">
