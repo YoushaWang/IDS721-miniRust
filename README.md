@@ -40,7 +40,9 @@ I create a program that use rust to fetch real-time Apple stock price.
 type "cargo run", and you can get the real-time apple stock price.
 <img width="342" alt="minirust10" src="/img/minirust10.jpg">
 <h2>Weekly Mini Rust 11:</h2>
-
+I create a program that use rust to transfer data from decimal to bianry.
+type "cargo run", and you can get the transfered binary number.
 <img width="342" alt="minirust11" src="/img/minirust11.jpg">
 <h2>Weekly Mini Rust 12:</h2>
+
 <img width="342" alt="minirust12" src="/img/minirust12.jpg">
