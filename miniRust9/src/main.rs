@@ -4,8 +4,8 @@ use reqwest::blocking::{Client, Response};
 use serde_json::Value;
 
 const API_URL: &str = "https://openapi.youdao.com/api";
-const APP_KEY: &str = "48de8104f7631356";
-const APP_SECRET: &str = "0dalavuogFk8Fl6ZyHa6Mj13mmVwLAqA";
+const APP_KEY: &str = "***************";
+const APP_SECRET: &str = "***************";
 
 #[derive(Serialize)]
 struct TranslationRequest<'a> {
